@@ -1,0 +1,1 @@
+cost SECRET-PASSWORD = 'do not store passwords';
